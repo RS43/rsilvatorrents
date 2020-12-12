@@ -2,11 +2,12 @@
 <channel>
 <name>Filmes Redecanais</name>
 <thumbnail></thumbnail>
-<externallink>https://drive.google.com/uc?id=1yZasXCxyAxZlAaTlK5I37rqQXSsZ91CD&export=download</externallink>
+<externallink>https://drive.google.com/uc?id=1gr8s4p8FmvGZnhZJrBsfkrkOJ6GolTIC&export=download</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
 </channels>
+
 <channels>
 <channel>
 <name>Filmes Youtube</name>
@@ -16,6 +17,7 @@
 <info></info>
 </channel>
 </channels>
+
 <channels>
 <channel>
 <name>Tv</name>

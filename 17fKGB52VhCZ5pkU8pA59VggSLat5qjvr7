@@ -38,6 +38,18 @@
 
 <channels>
 <channel>
+<name>[COLOR white] [B]Radio[/B] [/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://drive.google.com/uc?id=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&export=download</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR white] [B]Tv[/B] [/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://drive.google.com/uc?id=162zXUk7mnHidU8TAXeTiqcA5B2Sx-0d5&export=download</externallink>

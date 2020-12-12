@@ -1,18 +1,8 @@
 <channels>
 <channel>
-<name>Filmes Redecanais</name>
+<name>Filmes Variados</name>
 <thumbnail></thumbnail>
 <externallink>https://drive.google.com/uc?id=1gr8s4p8FmvGZnhZJrBsfkrkOJ6GolTIC&export=download</externallink>
-<fanart></fanart>
-<info></info>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>Filmes Youtube</name>
-<thumbnail></thumbnail>
-<externallink>https://drive.google.com/uc?id=1ffteAp_fdZmQ_2908LdzuoFFfUX1INGh&export=download</externallink>
 <fanart></fanart>
 <info></info>
 </channel>

@@ -2,55 +2,59 @@
 
 <channels>
 <channel>
-<name>[COLOR white] [B]Filmes Redecanais[/B] [/COLOR]</name>
+<name>[COLOR white][B]2020 Redecanais[/B][/COLOR]</name>
 <thumbnail></thumbnail>
-<externallink>https://drive.google.com/uc?id=1yZasXCxyAxZlAaTlK5I37rqQXSsZ91CD&export=download</externallink>
+<externallink>http://</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
 </channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 <channels>
 <channel>
-<name>[COLOR white] [B]Séries Redecanais[/B] [/COLOR]</name>
+<name>[COLOR white][B]Coleção Redecanais[/B][/COLOR]</name>
 <thumbnail></thumbnail>
-<externallink>https://drive.google.com/uc?id=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&export=download</externallink>
+<externallink>http://bit.ly/34jlcsX</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
 </channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 <channels>
 <channel>
-<name>[COLOR white] [B]Filmes Youtube[/B] [/COLOR]</name>
+<name>[COLOR white][B]Séries Redecanais[/B][/COLOR]</name>
 <thumbnail></thumbnail>
-<externallink>https://drive.google.com/uc?id=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&export=download</externallink>
+<externallink>https://</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
 </channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 <channels>
 <channel>
-<name>[COLOR white] [B]Radio[/B] [/COLOR]</name>
+<name>[COLOR white][B]Filmes Youtube[/B][/COLOR]</name>
 <thumbnail></thumbnail>
-<externallink>https://drive.google.com/uc?id=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&export=download</externallink>
+<externallink>https://</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
 </channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
+<name>[COLOR white][B]Radio[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+
 
 <channels>
 <channel>
-<name>[COLOR white] [B]Tv[/B] [/COLOR]</name>
+<name>[COLOR white][B]Tv[/B][/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://drive.google.com/uc?id=162zXUk7mnHidU8TAXeTiqcA5B2Sx-0d5&export=download</externallink>
 <fanart></fanart>
@@ -58,7 +62,7 @@
 </channel>
 </channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 
 
 

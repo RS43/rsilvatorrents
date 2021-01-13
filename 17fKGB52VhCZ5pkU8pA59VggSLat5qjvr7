@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <channels>
-
-
 <channel>
-<name>[COLOR white][B]Filmes Redecanais[/B][/COLOR]</name>
+<name>[COLOR white][B]2020 Redecanais[/B][/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://cockiest-purge.000webhostapp.com/FILMES%20COLE%C3%87%C3%83O.txt</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
+</channels>
 
+<channels>
 <channel>
 <name>[COLOR white][B]Séries Redecanais[/B][/COLOR]</name>
 <thumbnail></thumbnail>
@@ -18,7 +18,9 @@
 <fanart></fanart>
 <info></info>
 </channel>
+</channels>
 
+<channels>
 <channel>
 <name>[COLOR white][B]Filmes Youtube[/B][/COLOR]</name>
 <thumbnail></thumbnail>
@@ -26,7 +28,9 @@
 <fanart></fanart>
 <info></info>
 </channel>
+</channels>
 
+<channels>
 <channel>
 <name>[COLOR white][B]Filmes Torrentes[/B][/COLOR]</name>
 <thumbnail></thumbnail>
@@ -34,7 +38,9 @@
 <fanart></fanart>
 <info></info>
 </channel>
+</channels>
 
+<channels>
 <channel>
 <name>[COLOR white][B]Radio[/B][/COLOR]</name>
 <thumbnail></thumbnail>
@@ -42,7 +48,9 @@
 <fanart></fanart>
 <info></info>
 </channel>
+</channels>
 
+<channels>
 <channel>
 <name>[COLOR white][B]Tv[/B][/COLOR]</name>
 <thumbnail></thumbnail>
@@ -50,8 +58,6 @@
 <fanart></fanart>
 <info></info>
 </channel>
-
-
 </channels>
 
 

@@ -2,9 +2,19 @@
 
 <channels>
 <channel>
-<name>[COLOR white][B]2020 Redecanais[/B][/COLOR]</name>
+<name>[COLOR white][B]Coleção Redecanais[/B][/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://cockiest-purge.000webhostapp.com/FILMES%20COLE%C3%87%C3%83O.txt</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR white][B]2ª Coleção Redecanais[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://cockiest-purge.000webhostapp.com/rcfilmescolecao.txt</externallink>
 <fanart></fanart>
 <info></info>
 </channel>

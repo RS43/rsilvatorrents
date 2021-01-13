@@ -22,6 +22,16 @@
 
 <channels>
 <channel>
+<name>[COLOR white][B]Por ano Redecanais[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://cockiest-purge.000webhostapp.com/rcfilmesporano.txt</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR white][B]Séries Redecanais[/B][/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>http://</externallink>

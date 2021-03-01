@@ -1,90 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <channels>
+ 
+ 
 <channel>
-<name>[COLOR white][B]Coleção Redecanais[/B][/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://cockiest-purge.000webhostapp.com/_2COLECAO%20DE%20FILMES.txt</externallink>
+<name>[COLOR lime]|[/COLOR] [COLOR white][B]REDECANAIS[/B][/COLOR]</name>
+<externallink>https://drive.google.com/uc?id=1s_uKJBsNwP-1hPrEodP4ONHi_QchgbXu&export=download</externallink>
+<thumbnail>https://</thumbnail>
 <fanart></fanart>
-<info></info>
 </channel>
-</channels>
-
-<channels>
+ 
 <channel>
-<name>[COLOR white][B]2ª Coleção Redecanais[/B][/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://cockiest-purge.000webhostapp.com/rcfilmescolecao.txt</externallink>
+<name>[COLOR lime]|[/COLOR] [COLOR white][B]TORRENT[/B][/COLOR]</name>
+<externallink>https://drive.google.com/uc?id=1_x_Z927QGEHOJKqK3Xkm9MgOEm2ayzTn&export=download</externallink>
+<thumbnail>https://</thumbnail>
 <fanart></fanart>
-<info></info>
 </channel>
-</channels>
-
-<channels>
+ 
 <channel>
-<name>[COLOR white][B]Por ano Redecanais[/B][/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://cockiest-purge.000webhostapp.com/rcfilmesporano.txt</externallink>
+<name>[COLOR lime]|[/COLOR] [COLOR white][B]TESTES[/B][/COLOR]</name>
+<externallink>https://drive.google.com/uc?id=1fZd2PcBFgSIXe4AbvxOPr9Z6AxiFg7IX&export=download</externallink>
+<thumbnail>https://</thumbnail>
 <fanart></fanart>
-<info></info>
 </channel>
+  
+  
 </channels>
-
-<channels>
-<channel>
-<name>[COLOR white][B]Séries Redecanais[/B][/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>http://</externallink>
-<fanart></fanart>
-<info></info>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>[COLOR white][B]Filmes Youtube[/B][/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://bit.ly/2LMS3A1</externallink>
-<fanart></fanart>
-<info></info>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>[COLOR white][B]Filmes Torrentes[/B][/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>http://</externallink>
-<fanart></fanart>
-<info></info>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>[COLOR white][B]Radio[/B][/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://</externallink>
-<fanart></fanart>
-<info></info>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>[COLOR white][B]Tv[/B][/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://drive.google.com/uc?id=162zXUk7mnHidU8TAXeTiqcA5B2Sx-0d5&export=download</externallink>
-<fanart></fanart>
-<info></info>
-</channel>
-</channels>
-
-
-
-
-
-
-
-<! icones recomendavel 256 x 256>
-<! fanart 1024 x 720>
